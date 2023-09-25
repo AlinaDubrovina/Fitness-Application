@@ -1,2 +1,2 @@
 # Fitness-Application
-Application for gym
+Web application for working with the database. The Gym Management System is a Java-based project that aims to streamline and automate various tasks involved in managing a gym. The system provides a comprehensive solution for gym owners and staff to efficiently manage member registrations, track member nutrition. Allows you to register customers, compose and track the diet, calorie content of meals and proteins, fats, carbohydrates.
